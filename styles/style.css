@@ -140,6 +140,7 @@ main {
 .section-1 {
     width: 73.5%;
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     margin-top: 80px;
 }
@@ -147,6 +148,7 @@ main {
 .section-1-part {
     width: 100%;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     margin-bottom: 30px;
 
@@ -377,6 +379,7 @@ main {
 .section5-part1 {
     width: 54%;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
 
 }
@@ -433,6 +436,7 @@ main {
 .clients {
     width: 100%;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 
@@ -563,6 +567,7 @@ main {
     margin-top: 20px;
     background-color: black;
     display: flex;
+    flex-wrap: wrap;
     justify-content: flex-start;
     align-items: center;
 
